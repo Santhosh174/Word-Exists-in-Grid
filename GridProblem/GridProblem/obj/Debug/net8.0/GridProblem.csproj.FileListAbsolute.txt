@@ -9,3 +9,15 @@ C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProble
 C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\refint\GridProblem.dll
 C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.pdb
 C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\ref\GridProblem.dll
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\bin\Debug\net8.0\GridProblem.deps.json
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\bin\Debug\net8.0\GridProblem.dll
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\bin\Debug\net8.0\GridProblem.pdb
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.AssemblyInfoInputs.cache
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.AssemblyInfo.cs
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.csproj.CoreCompileInputs.cache
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.sourcelink.json
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.dll
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\refint\GridProblem.dll
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.pdb
+C:\Santhosh_GitHub\Problem_Solving\Word-Exists-in-Grid\GridProblem\GridProblem\obj\Debug\net8.0\ref\GridProblem.dll

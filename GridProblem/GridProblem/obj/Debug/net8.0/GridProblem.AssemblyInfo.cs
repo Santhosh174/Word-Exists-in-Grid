@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GridProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c0b1d0bb270e2ea5966494f377e8ae20bf677eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GridProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GridProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Office\\Santhosh\\Challenge\\GridProblem\\GridProblem\\GridProblem.csproj",
+      "projectUniqueName": "C:\\Santhosh_GitHub\\Problem_Solving\\Word-Exists-in-Grid\\GridProblem\\GridProblem\\GridProblem.csproj",
       "projectName": "GridProblem",
-      "projectPath": "C:\\Office\\Santhosh\\Challenge\\GridProblem\\GridProblem\\GridProblem.csproj",
+      "projectPath": "C:\\Santhosh_GitHub\\Problem_Solving\\Word-Exists-in-Grid\\GridProblem\\GridProblem\\GridProblem.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Office\\Santhosh\\Challenge\\GridProblem\\GridProblem\\obj\\",
+      "outputPath": "C:\\Santhosh_GitHub\\Problem_Solving\\Word-Exists-in-Grid\\GridProblem\\GridProblem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
