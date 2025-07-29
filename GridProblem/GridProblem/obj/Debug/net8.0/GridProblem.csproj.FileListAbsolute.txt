@@ -1,0 +1,11 @@
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\bin\Debug\net8.0\GridProblem.deps.json
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\bin\Debug\net8.0\GridProblem.dll
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\bin\Debug\net8.0\GridProblem.pdb
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.AssemblyInfoInputs.cache
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.AssemblyInfo.cs
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.csproj.CoreCompileInputs.cache
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.dll
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\refint\GridProblem.dll
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\GridProblem.pdb
+C:\Office\Santhosh\Challenge\GridProblem\GridProblem\obj\Debug\net8.0\ref\GridProblem.dll

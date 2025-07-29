@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridProblem", "GridProblem\GridProblem.csproj", "{A19A2530-2108-4643-A865-E763315ECDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGrid", "TestGrid\TestGrid.csproj", "{4A7674A9-98C4-4D66-944D-A551BE6BE6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19A2530-2108-4643-A865-E763315ECDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19A2530-2108-4643-A865-E763315ECDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19A2530-2108-4643-A865-E763315ECDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19A2530-2108-4643-A865-E763315ECDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7674A9-98C4-4D66-944D-A551BE6BE6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7674A9-98C4-4D66-944D-A551BE6BE6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7674A9-98C4-4D66-944D-A551BE6BE6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7674A9-98C4-4D66-944D-A551BE6BE6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {818327FA-44F4-400F-91AD-F732909C991A}
+	EndGlobalSection
+EndGlobal
